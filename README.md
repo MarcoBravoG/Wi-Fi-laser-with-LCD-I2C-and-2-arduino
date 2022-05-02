@@ -21,6 +21,10 @@
 - 1 led verde
 
 
-## Diagrama Electrónico
+## Diagrama Electrónico de pantalla lcd
 
 ![Circuito electronico](https://github.com/MarcoBravoG/Wi-Fi-laser-with-LCD-I2C-and-2-arduino/blob/main/descarga-1536x705.jpg)
+
+## Diagrama Electrónico de TX-RX
+
+![Circuito electronico](https://github.com/MarcoBravoG/Wi-Fi-laser-with-LCD-I2C-and-2-arduino/blob/main/Arduino%20circuito.PNG)
