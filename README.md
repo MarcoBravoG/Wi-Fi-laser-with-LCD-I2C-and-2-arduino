@@ -23,4 +23,4 @@
 
 ## Diagrama Electrónico
 
-![Circuito electronico](https://user-images.githubusercontent.com/23123783/101285791-13756100-37b5-11eb-9e30-6220c651d389.JPG)
+![Circuito electronico](https://github.com/MarcoBravoG/Wi-Fi-laser-with-LCD-I2C-and-2-arduino/blob/main/descarga-1536x705.jpg)
